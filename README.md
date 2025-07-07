@@ -1,4 +1,4 @@
 ## Hi My name is Warren Cooper Brown. I am a beginer in IT
 Information Technology Projects:
-<b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/WCB725/osticket-prereqs)
+<b>VPN)</b>
+  - [Seting UP a Virtual Private Network](https://github.com/WCB725/-prereqs)
